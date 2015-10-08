@@ -30,6 +30,8 @@ public class Proyectoalfa {
         
         System.out.print(System.getProperty("line.separator"));
         
+        System.out.print ("resultado ºF: "+(centigrados+fahr));
+        
         
     
     }
