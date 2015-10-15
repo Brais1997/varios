@@ -21,7 +21,7 @@ public class Proyectoalfa {
         double fahr;
         fahr = 33.8;
         double kelv;
-        kelv = 274.15;
+        kelv = 274.17;
         
         Scanner numero= new Scanner (System.in);
         
