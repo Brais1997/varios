@@ -35,7 +35,8 @@ public class Proyectoalfa {
         System.out.print(System.getProperty("line.separator"));
         
         System.out.print("Resultado ºK: "+(centigrados+kelv)+"\n");
-    
+        //Buenos días, me gustaría alquilar Batman Forever
+        //No es posible, tiene que devolverla tomorrow
     }
     
 }
